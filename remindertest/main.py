@@ -153,7 +153,7 @@ async def on_message(message):
 
     
 client.loop.create_task(time_check())
-client.run('OTQ1NDMzMjY2NTE5OTUzNDA4.YhQFWA.F8zOuJie4zIRK46h7xaAgjnPpdo')
+
 
 # import discord
 # import threading
@@ -283,4 +283,3 @@ client.run('OTQ1NDMzMjY2NTE5OTUzNDA4.YhQFWA.F8zOuJie4zIRK46h7xaAgjnPpdo')
 
     
 # client.loop.create_task(time_check())
-# client.run('OTQ1NDMzMjY2NTE5OTUzNDA4.YhQFWA.F8zOuJie4zIRK46h7xaAgjnPpdo')
